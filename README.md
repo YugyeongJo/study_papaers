@@ -15,7 +15,7 @@ Study Papers 레포지토리는 다양한 AI 분야의 논문을 읽고 연구�
 ## 💻 File
 
 <details open>
-<summary></summary>
+<summary> Computer Vision</summary>
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
